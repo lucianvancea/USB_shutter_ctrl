@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "SJ-2523-SMT-TR")(type "Legacy")(uri "C:/Users/vance/Documents/KiCad/NikonRemote/SJ-2523-SMT-TR/SJ-2523-SMT-TR.lib")(options "")(descr ""))
+  (lib (name "nikon_remote-rescue")(type "Legacy")(uri "C:/Users/vance/Documents/KiCad/NikonRemote/nikon_remote/nikon_remote-rescue.lib")(options "")(descr ""))
+  (lib (name "AudioJackCUI")(type "Legacy")(uri "C:/Users/vance/Documents/KiCad/NikonRemote/SJ-2523-SMT-TR/SJ-2523-SMT-TR.lib")(options "")(descr ""))
+)
